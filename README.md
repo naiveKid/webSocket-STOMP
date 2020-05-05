@@ -1,3 +1,9 @@
+在实现提供 WebSocket 服务的项目中，一般有如下几种解决方案：
+
+- 方案一 Spring WebSocket
+- 方案二 Tomcat WebSocket
+- 方案三 Netty WebSocket
+
 # SpringWebSocket
 ​	Spring 4.0为WebSocket通信提供了支持，包括： 
 
